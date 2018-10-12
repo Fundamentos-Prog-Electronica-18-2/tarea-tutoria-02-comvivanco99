@@ -1,5 +1,5 @@
-﻿1.- Inicio
-2.- Se pide a la persona que ingrese por teclado el nombre de cualquier país
+﻿1.- Inicio.
+2.- Se pide a la persona que ingrese por teclado el nombre de cualquier país.
 3.- Una ves ingresado el nombre del pais, el algoritmo se queda con la primera letra del nombre del pais
 4.- Si su primera letra del país ingresado es una vocal se presentará con mayúscula, caso contrario se presentará con minúsculas.
 5.- Fin.
