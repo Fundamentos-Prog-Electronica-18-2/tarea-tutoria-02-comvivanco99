@@ -1,0 +1,4 @@
+1.- Inicio
+2.- Se pide a la persona que ingrese por teclado el nombre de cualquier país
+3.- Se presentará en pantalla el nombre del país ingresado por la persona, si su primera letra del país ingresado es una vocal se presentará con mayúscula, caso contrario se presentará con minúsculas.
+4.- Fin
